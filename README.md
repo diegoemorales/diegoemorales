@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegoemorales
 - 👀 I’ve done research on beach-dune systems and autonomous marine surface vehicles
-- ❗️I'm interested in doing research in coastal resiiency and the development of low-cost electronics to better understand marine environments
+- ❗️I'm interested in doing research in coastal resiliency and the development of low-cost electronics to better understand marine environments
 - 🌱 I’m currently in my first semester as a graduate student at UNCW
 - 📫 Reach me at dem5075@uncw.edu
 - 😄 Pronouns: He/him
